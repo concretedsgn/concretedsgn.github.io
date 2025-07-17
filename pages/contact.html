@@ -6,53 +6,61 @@ comments: false
 ---
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
-  <p>
-    Vous avez une question, une remarque ou un signalement à faire concernant les horaires ou les itinéraires affichés sur notre site ?
-    Nous sommes à votre écoute.
-  </p>
+    <p>We’d love to hear from you!</p>
+    <p>Whether you have a question, feedback, collaboration idea, or simply want to say hello — the team at <strong>ConcreteDesign</strong> is just a message away.</p>
 
-  <h2>Nous Écrire</h2>
-  <p>
-    Pour toute demande d'information, suggestion d'amélioration ou notification d'erreur, vous pouvez nous contacter par email :
-  </p>
-  <p><strong>Email</strong> : <code>contact@horairesbus.github.io</code></p>
-  <p>Nous nous efforçons de répondre à tous les messages dans un délai de 24 à 48 heures.</p>
-
-  <h2>Collaboration et Partenariats</h2>
-  <p>
-    Vous représentez une autorité de transport, une collectivité locale ou un projet lié à la mobilité ?
-    Nous sommes ouverts aux collaborations visant à améliorer l'accessibilité des données de transport en commun.
-  </p>
-  <p>Contactez-nous à l’adresse suivante : <code>partenariats@horairesbus.github.io</code></p>
-
-  <h2>Formulaire de Contact</h2>
-
-  <form action="https://formspree.io/{{site.email}}" method="POST">    
-    <p class="mb-4">
-      Merci de votre intérêt pour notre site. Veuillez nous envoyer votre message via ce formulaire. Nous vous répondrons dans les plus brefs délais.
-    </p>
-
-    <div class="row mb-3">
-      <div class="col-md-6">
-        <input class="form-control" type="text" name="name" placeholder="Nom*" required>
-      </div>
-      <div class="col-md-6">
-        <input class="form-control" type="email" name="_replyto" placeholder="Adresse e-mail*" required>
-      </div>
+    <div class="contact-info">
+      <h2>Get in Touch</h2>
+      <p><strong>Email:</strong> <a href="mailto:hello@concretedesign.com">hello@concretedesign.com</a></p>
+      <p><strong>Phone:</strong> +1 (123) 456-7890</p>
+      <p><strong>Office Hours:</strong> Monday – Friday, 9:00 AM – 5:00 PM (UTC)</p>
     </div>
 
-    <div class="mb-3">
-      <textarea rows="8" class="form-control" name="message" placeholder="Message*" required></textarea>
+    <div class="office-address">
+      <h2>Our Office</h2>
+      <p>ConcreteDesign<br>
+      123 Design Avenue<br>
+      Suite 456<br>
+      Architecture City, AC 78910<br>
+      Country</p>
     </div>
 
-    <input class="btn btn-dark" type="submit" value="Envoyer">
-  </form>
+    <div class="social-links">
+      <h2>Follow Us</h2>
+      <p><a href="https://instagram.com/concretedesign" target="_blank">Instagram</a></p>
+      <p><a href="https://twitter.com/concretedesign" target="_blank">Twitter</a></p>
+      <p><a href="https://linkedin.com/company/concretedesign" target="_blank">LinkedIn</a></p>
+    </div>
 
-  <hr class="my-5">
+    <div class="contact-form-link">
+      <h2>Send Us a Message</h2>
+      <p>Have a specific inquiry? Fill out our contact form on our website:</p>
+      <p><a href="https://www.concretedesign.github.io/contact" target="_blank">www.concretedesign.github.io/contact</a></p>
+      <p>We typically respond within 1–2 business days.</p>
+    </div>
 
-  <p><strong>Horaires Bus</strong> — Simplifions vos trajets ensemble.</p>
+    <hr class="my-5">
+
+    <div class="contact-form">
+      <h2>Contact Form</h2>
+
+      <form action="https://formspree.io/f/your-form-id" method="POST">    
+        <p class="form-description">
+          Thank you for your interest in our site. Please send us your message using the form below. We will respond as soon as possible.
+        </p>
+
+        <input type="text" name="name" placeholder="Name*" required>
+
+        <input type="email" name="_replyto" placeholder="Email Address*" required>
+
+        <textarea rows="8" name="message" placeholder="Message*" required></textarea>
+
+        <input type="submit" value="Send Message">
+      </form>
+    </div>
+  </div>
 
 </body>
 </html>
