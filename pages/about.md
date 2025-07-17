@@ -5,33 +5,25 @@ permalink: "/about/"
 image: assets/images/about-us.jpg
 ---
 
-Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
+**ConcreteDesign** is your go-to platform for everything architectural — from innovative building materials to timeless design principles. Whether you're an aspiring architect, an industry professional, or simply someone who appreciates great design, our mission is to inform, inspire, and empower.
 
-## Notre Mission
+## Who We Are  
+We are a passionate team of architecture enthusiasts, engineers, designers, and content creators who believe in the transformative power of thoughtful design. Our name, *ConcreteDesign*, symbolizes our dedication to both the **solid foundations** of architecture and the **creative spirit** that shapes it.
 
-Chez **Horaires Bus**, notre objectif est clair : offrir une plateforme accessible, rapide et conviviale pour consulter les horaires des bus dans toutes les régions de France. Nous sommes convaincus que l'accès à l'information sur les transports publics est essentiel pour une mobilité fluide et inclusive.
+## What We Do  
+At ConcreteDesign, we explore all things related to the built environment, including:
 
-## Ce que Nous Proposons
+- **Architecture Trends & Styles**
+- **Building Materials & Innovations**
+- **Construction Techniques**
+- **Sustainable & Smart Design**
+- **Case Studies of Iconic Structures**
+- **Tips for Students & Professionals**
 
-- Horaires à jour pour les lignes de bus régionales et urbaines
-- Itinéraires détaillés avec correspondances possibles
-- Informations sur les arrêts les plus proches
-- Mise à jour continue des données pour garantir leur fiabilité
+We aim to bridge the gap between the technical and the artistic, offering content that's insightful, accessible, and visually engaging.
 
-## Nos Engagements
+## Why We Do It  
+Architecture isn't just about buildings — it's about shaping experiences, communities, and the future. We believe that well-informed design leads to better spaces and better lives. That’s why we're committed to sharing knowledge, spotlighting innovation, and celebrating excellence in architecture around the world.
 
-- Interface simple et adaptée à tous les appareils
-- Accès libre et sans inscription
-- Mise en valeur des lignes locales parfois négligées par d'autres services
-- Une plateforme pensée entièrement pour les usagers francophones
-
-## Nous Contacter
-
-Vous avez une suggestion, une erreur à signaler ou une idée à partager ? N'hésitez pas à nous écrire.
-
-Email : `contact@horairesbus.github.io`  
-Site web : [horairesbus.github.io](https://horairesbus.github.io)
-
----
-
-Merci de votre confiance. L'équipe **Horaires Bus**
+## Join Our Community  
+ConcreteDesign is more than a website — it’s a growing community of curious minds and creative thinkers. Whether you're here to learn, collaborate, or get inspired, welcome to the blueprint of better architecture.
